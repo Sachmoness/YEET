@@ -1,0 +1,23 @@
+{
+  "name": "yeet",
+  "version": "1.0.0",
+  "description": "yeeeeet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sachmoness/YEET.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sachmoness/YEET/issues"
+  },
+  "homepage": "https://github.com/Sachmoness/YEET#readme",
+  "dependencies": {
+    "express": "4.16.4"
+  }
+}
